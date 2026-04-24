@@ -57,7 +57,7 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing my Master's in
 | [ AWS Cost Optimization](https://github.com/sneha020902/DevOps-Project-cost-optimization) | Lambda function that auto-identifies & deletes stale EBS snapshots to reduce cloud costs | Python · AWS Lambda · Boto3 · IAM |
 | [ AWS 2048 Game](https://github.com/sneha020902/AWS-2048-game) | Dockerized 2048 game deployed on AWS with S3, CloudFront & Route 53 | Docker · S3 · CloudFront · Route 53 |
 | [ Multi-Tier Flask App](https://github.com/sneha020902/multi-tier-flask-aws-app) | Multi-tier web application deployed on AWS infrastructure | Python · Flask · AWS · Docker |
-| [ DevOps Learning Journey](https://github.com/sneha020902/devops-learning-journey) | Day-by-day notes from my DevOps learning path: Linux → SSH → AWS → CI/CD | Markdown · Linux · AWS |
+| [ flask-devops-pipeline](https://github.com/sneha020902/flask-devops-pipeline) | Day-by-day notes from my DevOps learning path: Linux → SSH → AWS → CI/CD | Markdown · Linux · AWS |
 
 ---
 
