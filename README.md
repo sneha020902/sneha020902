@@ -72,12 +72,17 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing my Master's in
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sneha020902&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha020902&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+| Topic | Progress |
+|---|---|
+| 🐧 Linux Administration | ██████████ Done |
+| 🔐 SSH & Networking | ██████████ Done |
+| ☁️ AWS Core Services | ████████░░ In Progress |
+| 🐳 Docker & Containers | ████████░░ In Progress |
+| ⚙️ Terraform / IaC | █████░░░░░ Up Next |
+| ☸️ Kubernetes | ████░░░░░░ Up Next |
+| 🔄 CI/CD Pipelines | ████░░░░░░ Up Next |
 
 ---
 
