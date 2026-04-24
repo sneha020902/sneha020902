@@ -21,12 +21,12 @@
 
 I'm a passionate **Cloud & DevOps enthusiast** currently pursuing my Master's in Computer Science at Bauhaus-Universität Weimar, Germany. I love building real-world cloud solutions on AWS and automating everything I can.
 
-- 🌍 Based in **Weimar, Germany** · Open to work (On-site / Hybrid / Remote)
-- ☁️ Hands-on with **AWS EC2, S3, IAM, VPC, RDS, Lambda, CloudWatch, CloudFormation**
-- 🐳 Building & containerizing apps with **Docker** and deploying with **GitHub Actions**
-- 🐍 Writing automation scripts in **Python (Boto3)**
-- 📚 Currently working through my **DevOps Learning Journey** — Linux → SSH → AWS → CI/CD
-- 🎯 Goal: Become a **Cloud Support / DevOps Engineer** and grow into a Cloud Architect
+-  Based in **Weimar, Germany** · Open to work (On-site / Hybrid / Remote)
+-  Hands-on with **AWS EC2, S3, IAM, VPC, RDS, Lambda, CloudWatch, CloudFormation**
+-  Building & containerizing apps with **Docker** and deploying with **GitHub Actions**
+-  Writing automation scripts in **Python (Boto3)**
+-  Currently working through my **DevOps Learning Journey** — Linux → SSH → AWS → CI/CD
+-  Goal: Become a **Cloud Support / DevOps Engineer** and grow into a Cloud Architect
 
 ---
 
@@ -54,20 +54,20 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing my Master's in
 
 | Project | Description | Stack |
 |---|---|---|
-| [💰 AWS Cost Optimization](https://github.com/sneha020902/DevOps-Project-cost-optimization) | Lambda function that auto-identifies & deletes stale EBS snapshots to reduce cloud costs | Python · AWS Lambda · Boto3 · IAM |
-| [🎮 AWS 2048 Game](https://github.com/sneha020902/AWS-2048-game) | Dockerized 2048 game deployed on AWS with S3, CloudFront & Route 53 | Docker · S3 · CloudFront · Route 53 |
-| [🌐 Multi-Tier Flask App](https://github.com/sneha020902/multi-tier-flask-aws-app) | Multi-tier web application deployed on AWS infrastructure | Python · Flask · AWS · Docker |
-| [📖 DevOps Learning Journey](https://github.com/sneha020902/devops-learning-journey) | Day-by-day notes from my DevOps learning path: Linux → SSH → AWS → CI/CD | Markdown · Linux · AWS |
+| [ AWS Cost Optimization](https://github.com/sneha020902/DevOps-Project-cost-optimization) | Lambda function that auto-identifies & deletes stale EBS snapshots to reduce cloud costs | Python · AWS Lambda · Boto3 · IAM |
+| [ AWS 2048 Game](https://github.com/sneha020902/AWS-2048-game) | Dockerized 2048 game deployed on AWS with S3, CloudFront & Route 53 | Docker · S3 · CloudFront · Route 53 |
+| [ Multi-Tier Flask App](https://github.com/sneha020902/multi-tier-flask-aws-app) | Multi-tier web application deployed on AWS infrastructure | Python · Flask · AWS · Docker |
+| [ DevOps Learning Journey](https://github.com/sneha020902/devops-learning-journey) | Day-by-day notes from my DevOps learning path: Linux → SSH → AWS → CI/CD | Markdown · Linux · AWS |
 
 ---
 
 ## 📜 Certifications
 
-- ☁️ **Google Cloud** — GKE, Terraform, Scaling & Automation, Cloud Fundamentals, Cloud Engineer Prep
-- 🟠 **AWS** — AWS Educate Cloud 101, EC2, Aurora, Serverless API on AWS
-- 🔵 **Microsoft Azure** — Azure Data Fundamentals, Azure Cloud Concepts
-- ⚙️ **DevOps Engineering: Planning to Production** — GeeksforGeeks
-- 🤖 **Claude Code in Action** — Anthropic Education
+-  **Google Cloud** — GKE, Terraform, Scaling & Automation, Cloud Fundamentals, Cloud Engineer Prep
+-  **AWS** — AWS Educate Cloud 101, EC2, Aurora, Serverless API on AWS
+-  **Microsoft Azure** — Azure Data Fundamentals, Azure Cloud Concepts
+-  **DevOps Engineering: Planning to Production** — GeeksforGeeks
+-  **Claude Code in Action** — Anthropic Education
 - And 30+ more on [LinkedIn](https://www.linkedin.com/in/-snehaagrawal/) →
 
 ---
@@ -76,13 +76,13 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing my Master's in
 
 | Topic | Progress |
 |---|---|
-| 🐧 Linux Administration | ██████████ Done |
-| 🔐 SSH & Networking | ██████████ Done |
-| ☁️ AWS Core Services | ████████░░ In Progress |
-| 🐳 Docker & Containers | ████████░░ In Progress |
-| ⚙️ Terraform / IaC | █████░░░░░ Up Next |
-| ☸️ Kubernetes | ████░░░░░░ Up Next |
-| 🔄 CI/CD Pipelines | ████░░░░░░ Up Next |
+|  Linux Administration | ██████████ Done |
+|  SSH & Networking | ██████████ Done |
+|  AWS Core Services | ████████░░ In Progress |
+|  Docker & Containers | ████████░░ In Progress |
+|  Terraform / IaC | █████░░░░░ Up Next |
+|  Kubernetes | ████░░░░░░ Up Next |
+|  CI/CD Pipelines | ████░░░░░░ Up Next |
 
 ---
 
