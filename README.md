@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sneha Agrawal 👋</h1>
+<h1 align="center">Hi, I'm Sneha Agrawal 👋..</h1>
 
 <p align="center">
   <b>M.Sc. Computer Science @ Bauhaus-Universität Weimar 🇩🇪</b><br/>
