@@ -17,7 +17,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 I'm a passionate **Cloud & DevOps enthusiast** currently pursuing my Master's in Computer Science at Bauhaus-Universität Weimar, Germany. I love building real-world cloud solutions on AWS and automating everything I can.
 
@@ -30,7 +30,7 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing my Master's in
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,7 +50,7 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing my Master's in
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -61,7 +61,7 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing my Master's in
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 -  **Google Cloud** — GKE, Terraform, Scaling & Automation, Cloud Fundamentals, Cloud Engineer Prep
 -  **AWS** — AWS Educate Cloud 101, EC2, Aurora, Serverless API on AWS
@@ -72,7 +72,7 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing my Master's in
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 | Topic | Progress |
 |---|---|
@@ -86,7 +86,7 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing my Master's in
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 
 I'm actively looking for **Cloud / DevOps / Cloud Support** roles in Germany (and remotely). If you're hiring, mentoring, or just want to chat cloud, feel free to reach out!
 
